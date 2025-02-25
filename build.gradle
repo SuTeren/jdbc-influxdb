@@ -17,8 +17,9 @@ dependencies {
 	testImplementation libs.ch.qos.logback.logback.classic
 	testImplementation libs.org.apache.commons.commons.collections4
 	testImplementation libs.org.mockito.mockito.core
-	testImplementation libs.org.junit.jupiter.junit.jupiter.engine
+	testRuntimeOnly libs.org.junit.jupiter.junit.jupiter.engine
 	testImplementation libs.org.junit.jupiter.junit.jupiter.params
+	testImplementation libs.org.junit.platform.launcher
 }
 
 ext.moduleName = 'InfluxDbSqlDriver'
