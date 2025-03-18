@@ -3,7 +3,7 @@ junit-platform = "1.12.1"
 org-junit-jupiter = "5.12.1"
 
 [libraries]
-ch-qos-logback-logback-classic = "ch.qos.logback:logback-classic:1.5.17"
+ch-qos-logback-logback-classic = "ch.qos.logback:logback-classic:1.5.18"
 com-vdurmont-semver4j = "com.vdurmont:semver4j:3.1.0"
 org-apache-commons-commons-collections4 = "org.apache.commons:commons-collections4:4.4"
 org-apache-commons-commons-lang3 = "org.apache.commons:commons-lang3:3.17.0"
