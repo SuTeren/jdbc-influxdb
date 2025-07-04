@@ -1,6 +1,6 @@
 [versions]
 
-junit-platform = "1.13.2"
+junit-platform = "1.13.3"
 org-junit-jupiter = "5.13.2"
 
 [libraries]
