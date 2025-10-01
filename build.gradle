@@ -24,12 +24,12 @@ dependencies {
 
 ext.moduleName = 'InfluxDbSqlDriver'
 
-
 java {
-	sourceCompatibility = "11"
-	targetCompatibility = "11"
-	withJavadocJar()
 	withSourcesJar()
+	withJavadocJar()
+	toolchain {
+		languageVersion = JavaLanguageVersion.of(17)
+	}
 }
 
 compileJava {
