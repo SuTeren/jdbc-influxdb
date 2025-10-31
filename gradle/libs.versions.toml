@@ -1,7 +1,7 @@
 [versions]
 
 junit-platform = "6.0.0"
-org-junit-jupiter = "6.0.0"
+org-junit-jupiter = "6.0.1"
 
 [libraries]
 ch-qos-logback-logback-classic = "ch.qos.logback:logback-classic:1.5.20"
