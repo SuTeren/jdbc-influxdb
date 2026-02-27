@@ -12,7 +12,7 @@ org-influxdb-influxdb-java = "org.influxdb:influxdb-java:2.25"
 org-junit-jupiter-junit-jupiter-engine = { module = "org.junit.jupiter:junit-jupiter-engine", version.ref = "org-junit-jupiter" }
 org-junit-jupiter-junit-jupiter-params = { module = "org.junit.jupiter:junit-jupiter-params", version.ref = "org-junit-jupiter" }
 org-junit-platform-launcher = { module = "org.junit.platform:junit-platform-launcher", version.ref = "junit-platform" }
-org-mockito-mockito-core = "org.mockito:mockito-core:5.21.0"
+org-mockito-mockito-core = "org.mockito:mockito-core:5.22.0"
 org-slf4j-slf4j-api = "org.slf4j:slf4j-api:2.0.17"
 org-testcontainers-influxdb = "org.testcontainers:influxdb:1.21.4"
 
