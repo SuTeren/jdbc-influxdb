@@ -28,7 +28,7 @@ java {
 	withSourcesJar()
 	withJavadocJar()
 	toolchain {
-		languageVersion = JavaLanguageVersion.of(17)
+		languageVersion = JavaLanguageVersion.of(25)
 	}
 }
 
@@ -140,6 +140,16 @@ publishing {
 						id = 'konikvranik'
 						name = 'Petr Vraník'
 						email = 'petr@vranik.name'
+					}
+					developer {
+						id = 'zanskorja'
+						name = 'Žan Škorja'
+						email = 'zan@skorja.si'
+					}
+					developer{
+						id = 'dominikbrezovsek'
+						name = 'Dominik Brezovšek'
+						email = 'dominik@brezovsek.name'
 					}
 				}
 			}
