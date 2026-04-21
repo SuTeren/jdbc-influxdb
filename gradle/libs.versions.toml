@@ -18,6 +18,6 @@ org-testcontainers-influxdb = "org.testcontainers:influxdb:1.21.4"
 
 
 [plugins]
-com-github-ben-manes-versions = "com.github.ben-manes.versions:0.53.0"
+com-github-ben-manes-versions = "com.github.ben-manes.versions:0.54.0"
 io-freefair-lombok = "io.freefair.lombok:9.2.0"
 nl-littlerobots-version-catalog-update = "nl.littlerobots.version-catalog-update:1.1.0"
