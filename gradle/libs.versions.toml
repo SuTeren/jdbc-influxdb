@@ -13,7 +13,7 @@ org-junit-jupiter-junit-jupiter-engine = { module = "org.junit.jupiter:junit-jup
 org-junit-jupiter-junit-jupiter-params = { module = "org.junit.jupiter:junit-jupiter-params", version.ref = "org-junit-jupiter" }
 org-junit-platform-launcher = { module = "org.junit.platform:junit-platform-launcher", version.ref = "junit-platform" }
 org-mockito-mockito-core = "org.mockito:mockito-core:5.23.0"
-org-slf4j-slf4j-api = "org.slf4j:slf4j-api:2.0.17"
+org-slf4j-slf4j-api = "org.slf4j:slf4j-api:2.0.18"
 org-testcontainers-influxdb = "org.testcontainers:influxdb:1.21.4"
 
 
