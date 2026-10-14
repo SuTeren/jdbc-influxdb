@@ -16,6 +16,7 @@ Development and maintenance of jdbc-influxdb ended on 2026-10-14.
 
 * No new features, bug fixes, or security updates will be provided.
 * Existing releases remain available on https://central.sonatype.com/artifact/net.suteren.jdbc.influxdb/influxdb-jdbc[Maven Central] and can still be used.
+* Issues and pull requests are disabled.
 
 If you want to continue development, feel free to fork this repository.
 ====
