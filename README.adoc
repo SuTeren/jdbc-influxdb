@@ -8,6 +8,19 @@
 konikvranik <hpa@suteren.net>
 v{release-version}, 2022-09-27
 
+[WARNING]
+====
+This project is no longer maintained.
+
+Development and maintenance of jdbc-influxdb ended on 2026-10-14.
+
+* No new features, bug fixes, or security updates will be provided.
+* Existing releases remain available on https://central.sonatype.com/artifact/net.suteren.jdbc.influxdb/influxdb-jdbc[Maven Central] and can still be used.
+
+If you want to continue development, feel free to fork this repository.
+====
+
+
 Basic JDBC query functionality for the InfluxDB. +
 Intended to help developers and data analyst to inspect data over various GUI.
 
